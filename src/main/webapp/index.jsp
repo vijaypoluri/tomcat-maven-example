@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! Deploying to Tomcat Container.</h2>
+<h2>Hello World! Streaming Jobs.</h2>
 </body>
 </html>
