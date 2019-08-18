@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! Master-Slave Running.</h2>
+<h2>Hello World!</h2>
 </body>
 </html>
